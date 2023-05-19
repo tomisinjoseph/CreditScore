@@ -12,7 +12,6 @@
 		77AB560A2A179F2700E3282A /* DonutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77AB56092A179F2600E3282A /* DonutView.swift */; };
 		77AB560C2A179FCA00E3282A /* DonutViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77AB560B2A179FCA00E3282A /* DonutViewStyle.swift */; };
 		77AB560F2A17A29E00E3282A /* CustomColours.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77AB560E2A17A29E00E3282A /* CustomColours.swift */; };
-		77AB56112A17CCF800E3282A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 77AB56102A17CCF800E3282A /* README.md */; };
 		77C21BB52A16E63E00CD888F /* BasicBlockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C21BB42A16E63E00CD888F /* BasicBlockView.swift */; };
 		77C21BB72A16E6D300CD888F /* ProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C21BB62A16E6D300CD888F /* ProgressBarView.swift */; };
 		77C21BB92A16FA1E00CD888F /* MiniDonutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C21BB82A16FA1E00CD888F /* MiniDonutView.swift */; };
@@ -49,7 +48,6 @@
 		77AB56092A179F2600E3282A /* DonutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonutView.swift; sourceTree = "<group>"; };
 		77AB560B2A179FCA00E3282A /* DonutViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonutViewStyle.swift; sourceTree = "<group>"; };
 		77AB560E2A17A29E00E3282A /* CustomColours.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColours.swift; sourceTree = "<group>"; };
-		77AB56102A17CCF800E3282A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		77C21BB42A16E63E00CD888F /* BasicBlockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicBlockView.swift; sourceTree = "<group>"; };
 		77C21BB62A16E6D300CD888F /* ProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBarView.swift; sourceTree = "<group>"; };
 		77C21BB82A16FA1E00CD888F /* MiniDonutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniDonutView.swift; sourceTree = "<group>"; };
@@ -177,7 +175,6 @@
 				77CAC2FB2A129E7000A2EB3D /* CreditScoreApp.swift */,
 				77CAC2FF2A129E7100A2EB3D /* Assets.xcassets */,
 				77CAC3012A129E7100A2EB3D /* Preview Content */,
-				77AB56102A17CCF800E3282A /* README.md */,
 			);
 			path = CreditScore;
 			sourceTree = "<group>";
@@ -311,7 +308,6 @@
 			files = (
 				77CAC3032A129E7100A2EB3D /* Preview Assets.xcassets in Resources */,
 				77CAC3002A129E7100A2EB3D /* Assets.xcassets in Resources */,
-				77AB56112A17CCF800E3282A /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
